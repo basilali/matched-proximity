@@ -5,5 +5,7 @@ Example:
 Text =       "War and peace, peace and war. War, War, War. Give Peace a chance, we all want peace."
 
 list war = [0,5,6,7,8]
+
 list peace = [2,3,10,16]
+
 returns [[0,2,2],[5,3,2],[6,10,4],[7,16,9]]
